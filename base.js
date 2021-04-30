@@ -2,7 +2,7 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 2020,
     sourceType: 'module',
-  }, //CHANGE HERE FOR PR1
+  }, //CHANGE HERE
   root: true,
   rules: {
     'accessor-pairs': 'off',
