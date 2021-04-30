@@ -11,6 +11,3 @@ module.exports = {
     'vue/component-name-in-template-casing': 'error',
   },
 };
-
-//Additional comments
-//Additional comments 3
